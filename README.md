@@ -332,9 +332,10 @@ Brenda
 ### <a name="_3as4poj"></a>2.3.5. As-is Scenario Mapping
 **Segmento Estudiantes Universitarios que necesiten movilizarse**
 
-![](Aspose.Words.15d1297a-e42c-4edb-af62-c714e974a080.016.jpeg)
+![](images/Emphaty map - Segmento Objetivo 1.jpg)
 
 **Segmento Estudiantes Universitarios propietarios de vehículo privado**
 
-![](images/Emphaty map - Segmento Objetivo 2.jpeg)
+![](images/Emphaty map - Segmento Objetivo 2.jpg)
+
 
