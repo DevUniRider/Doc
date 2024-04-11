@@ -61,7 +61,7 @@
 ### <a name="_1y810tw"></a>2.2.2. Registro de entrevistas
 **Segmento objetivo #1: Estudiantes Universitarios que necesiten movilizarse.**
 
-![](Aspose.Words.15d1297a-e42c-4edb-af62-c714e974a080.005.png)
+![](images/Entrevista1.png)
 
 **Entrevistado N°1:** Giordano Alonso Pino Rodriguez
 
@@ -79,7 +79,7 @@
 
 El entrevistado menciona la necesidad de verificar la información de los conductores y usuarios por la inseguridad que presenta el país hoy en día. Además, considera necesario la comunicación directa con el conductor y un soporte técnico eficiente. Por otro lado, le encanta la idea de que el método de pago pueda ser en efectivo o por yape o plin. A su vez, le gusta la idea que la app se expanda para todas las universidades del Perú y está dispuesto a recomendarla a sus conocidos.
 
-![](Aspose.Words.15d1297a-e42c-4edb-af62-c714e974a080.006.png)
+![](images/Entrevista3.png)
 
 **Entrevistado N°2:** 
 
@@ -112,7 +112,7 @@ El entrevistado menciona la importancia de la verificación de identidad del con
 
 **Segmento objetivo #2: Estudiantes Universitarios propietarios de vehículo privado.**
 
-![](Aspose.Words.15d1297a-e42c-4edb-af62-c714e974a080.007.png)
+![](images/Entrevista2.png)
 
 **Entrevistado N°1:** Brenda Carolina Calderon Sevillano
 
@@ -130,7 +130,7 @@ El entrevistado menciona la importancia de la verificación de identidad del con
 
 Se enfatiza la importancia de la seguridad y la confiabilidad al utilizar el servicio de carpooling. Valorizan la verificación de identidad, la comunicación directa con el conductor y un soporte técnico eficiente. Además, buscan información detallada del conductor y prefiere el método de pago en efectivo. La calificación del conductor es un factor crucial al seleccionar un viaje y considera promover el servicio de Unirider. En general desea una experiencia segura, transparente y cómoda al utilizar el servicio de carpooling.
 
-![](Aspose.Words.15d1297a-e42c-4edb-af62-c714e974a080.008.png)
+![](images/Entrevista4.png)
 
 **Entrevistado N°2: Jefrey Sanchez**
 
@@ -149,7 +149,7 @@ Se enfatiza la importancia de la seguridad y la confiabilidad al utilizar el ser
 El posible conductor de UniRider enfatiza la importancia de la verificación de identidad tanto para los conductores como para los pasajeros, y sugiere implementar notificaciones de cancelación de asientos para mejorar la experiencia de todos los usuarios. Está comprometido a utilizar las ganancias obtenidas para el adecuado mantenimiento del automóvil y está dispuesto a promover activamente la plataforma entre otros estudiantes de su universidad. Su principal preocupación es la calidad del servicio y la seguridad tanto del conductor como de los futuros usuarios, ya que entiende lo desafiante que puede ser el viaje a un centro de estudios. Este posible conductor también está abierto a recibir comentarios y sugerencias de los usuarios para garantizar una mejora continua en el servicio ofrecido.
 
 
-![](Aspose.Words.15d1297a-e42c-4edb-af62-c714e974a080.009.png)
+![](images/Entrevista5.png)
 
 **Entrevistado N°3:** Leo Sicha
 
@@ -236,7 +236,7 @@ Segmento objetivo #2: Estudiantes Universitarios propietarios de vehículo priva
 ### <a name="_1ci93xb"></a>2.3.1. User Personas
 A continuación, se presentarán los user persona basados en nuestro segmento objetivo. Estos son arquetipos de nuestros usuarios ideales para nuestro segmento principal.
 
-**Segmento objetivo #1: Estudiantes Universitarios que necesiten movilizarse![](Aspose.Words.15d1297a-e42c-4edb-af62-c714e974a080.010.png)**
+**Segmento objetivo #1: Estudiantes Universitarios que necesiten movilizarse![](images/UserPersona2.png)**
 
 
 
@@ -255,7 +255,7 @@ A continuación, se presentarán los user persona basados en nuestro segmento ob
 
 
 
-**Segmento objetivo #2: Estudiantes Universitarios propietarios de vehículo privado![](Aspose.Words.15d1297a-e42c-4edb-af62-c714e974a080.011.png)**
+**Segmento objetivo #2: Estudiantes Universitarios propietarios de vehículo privado![](images/UserPersona1.png)**
 
 
 
