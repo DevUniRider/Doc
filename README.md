@@ -286,7 +286,7 @@ Brenda
 
 
 ### <a name="_2bn6wsx"></a>2.3.3. User Journey Mapping
-**Giordano![](Aspose.Words.15d1297a-e42c-4edb-af62-c714e974a080.012.jpeg)**
+**Giordano![](images/UserJourneyMapping1.jpg)**
 
 
 
@@ -307,7 +307,7 @@ Brenda
 
 
 
-**Brenda![](Aspose.Words.15d1297a-e42c-4edb-af62-c714e974a080.013.jpeg)**
+**Brenda![](images/UserJourneyMapping2.jpg)**
 
 ###
 ###
@@ -323,16 +323,16 @@ Brenda
 ### <a name="_xb00ezcbydjj"></a><a name="_arcl8jyg4q6g"></a><a name="_98qj69g8ftd2"></a><a name="_8qkzx0iar9cr"></a><a name="_z8prfpid6kkz"></a><a name="_qsh70q"></a>2.3.4. Empathy Mapping
 **Giordano**
 
-![](Aspose.Words.15d1297a-e42c-4edb-af62-c714e974a080.014.png)
+![](images/EmpathyMapping1.png)
 
 
 **Brenda**
 
-![](Aspose.Words.15d1297a-e42c-4edb-af62-c714e974a080.015.png)
+![](images/EmpathyMapping2.png)
 ### <a name="_3as4poj"></a>2.3.5. As-is Scenario Mapping
 **Segmento Estudiantes Universitarios que necesiten movilizarse**
 
-![](images/Emphaty map - Segmento Objetivo 1.jpg)
+![](images/Emphatymap1.jpg)
 
 **Segmento Estudiantes Universitarios propietarios de vehículo privado**
 
