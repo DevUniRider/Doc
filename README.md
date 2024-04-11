@@ -1,3 +1,4 @@
+
 # <a name="_35nkun2"></a>Capítulo II: Requirements Elicitation & Analysis
 ## <a name="_1ksv4uv"></a>2.1. Competidores
 ### <a name="_44sinio"></a>2.1.1. Análisis competitivo
@@ -5,8 +6,8 @@
 
 <table><tr><th colspan="6" valign="top"><a name="_lfp2lf9xoms"></a><b>Competitive Analysis Landscape</b></th></tr>
 <tr><td colspan="6" valign="top"><p><b>¿Por qué llevar a cabo este análisis?</b>  </p><p>La realización de un análisis competitivo permite a UniRider entender su posición en el mercado frente a sus competidores. Identificar fortalezas, debilidades, oportunidades y amenazas proporcionará a UniRider insights valiosos para ajustar su estrategia, innovar en su oferta de valor y mejorar su enfoque de mercado. </p></td></tr>
-<tr><td colspan="2" valign="top"><b>Nombre</b></td><td valign="top"><b>MedMeet</b></td><td valign="top"><b>BlaBlaCar</b></td><td valign="top"><b>Carpool World</b></td><td valign="top"><b>Waze Carpool</b></td></tr>
-<tr><td colspan="2" valign="top"><b>Logo</b></td><td valign="top">![](Aspose.Words.87ae12e5-836e-456f-b5cd-6f18f8dc66a5.001.png)</td><td valign="top">![](Aspose.Words.87ae12e5-836e-456f-b5cd-6f18f8dc66a5.002.png)</td><td valign="top">![CarpoolWorld on X: "#CompartirCoche #SantiagoTianguistenco -> #Metepec  #GaleríasMetepec rideshare https://t.co/hVLlz2f2lK" / X](Aspose.Words.87ae12e5-836e-456f-b5cd-6f18f8dc66a5.003.png)</td><td valign="top">![](Aspose.Words.87ae12e5-836e-456f-b5cd-6f18f8dc66a5.004.png)</td></tr>
+<tr><td colspan="2" valign="top"><b>Nombre</b></td><td valign="top"><b>UniRider</b></td><td valign="top"><b>BlaBlaCar</b></td><td valign="top"><b>Carpool World</b></td><td valign="top"><b>Waze Carpool</b></td></tr>
+<tr><td colspan="2" valign="top"><b>Logo</b></td><td valign="top">![](Aspose.Words.15d1297a-e42c-4edb-af62-c714e974a080.001.png)</td><td valign="top">![](Aspose.Words.15d1297a-e42c-4edb-af62-c714e974a080.002.png)</td><td valign="top">![CarpoolWorld on X: "#CompartirCoche #SantiagoTianguistenco -> #Metepec  #GaleríasMetepec rideshare https://t.co/hVLlz2f2lK" / X](Aspose.Words.15d1297a-e42c-4edb-af62-c714e974a080.003.png)</td><td valign="top">![](Aspose.Words.15d1297a-e42c-4edb-af62-c714e974a080.004.png)</td></tr>
 <tr><td rowspan="2" valign="top"><b>Perfil</b></td><td valign="top"><b>Overview</b></td><td valign="top">Es una app web  especializada en carpooling para estudiantes universitarios, diseñada para facilitar una forma económica y social de viajar. La app conecta a estudiantes que van en la misma dirección, permitiéndoles compartir experiencias de viaje.</td><td valign="top">Es una plataforma líder en carpooling que conecta a conductores con asientos libres y a pasajeros que buscan viajar la misma ruta, enfocándose principalmente en viajes largos. La plataforma promueve la interacción social y la confianza mediante perfiles detallados y sistemas de calificación.</td><td valign="top">Es una plataforma global de carpooling que ofrece un servicio básico y directo para conectar a conductores y pasajeros, sin centrarse en un nicho específico. Su objetivo es facilitar el carpooling para cualquier tipo de viaje, ya sea para el trabajo, la escuela o viajes largos.</td><td valign="top">Se enfoca en conectar a conductores y pasajeros para viajes diarios, aprovechando su avanzada tecnología de mapeo y tráfico para optimizar las rutas. Su propuesta es reducir la cantidad de vehículos en la carretera mediante el fomento del carpooling basado en la eficiencia.</td></tr>
 <tr><td valign="top"><p><b>Ventaja competitiva</b></p><p><b>¿Qué valor ofrece a los clientes</b></p></td><td valign="top">Su ventaja radica en su enfoque específico en estudiantes universitarios, ofreciendo una solución personalizada para sus necesidades de movilidad. Esto incluye tarifas económicas, flexibilidad horaria y un ambiente de viaje social y seguro.</td><td valign="top">Se centra en viajes largos y la interacción social entre usuarios. Su valor principal es la confiabilidad y la extensa red de usuarios.</td><td valign="top">Ofrece una plataforma global que conecta a conductores y pasajeros sin enfocarse en un nicho específico. Su valor reside en la amplitud de su servicio.</td><td valign="top">Aprovecha su tecnología de navegación para optimizar las rutas de carpooling, dirigido a quienes buscan eficiencia y rapidez en sus viajes diarios.</td></tr>
 <tr><td rowspan="2" valign="top"><b>Perfil de Marketing</b></td><td valign="top"><b>Mercado Objetivo</b></td><td valign="top"><p>-Estudiantes universitarios de Lima.</p><p></p><p>-Estudiantes universitarios con auto.</p><p></p></td><td valign="top">Viajeros de larga distancia interesados en compartir gastos y experiencias.</td><td valign="top">Amplio, desde viajeros diarios hasta quienes buscan compañeros para viajes largos.</td><td valign="top">Profesionales y estudiantes que buscan rutas eficientes para sus viajes diarios.</td></tr>
@@ -60,7 +61,7 @@
 ### <a name="_1y810tw"></a>2.2.2. Registro de entrevistas
 **Segmento objetivo #1: Estudiantes Universitarios que necesiten movilizarse.**
 
-![](Aspose.Words.87ae12e5-836e-456f-b5cd-6f18f8dc66a5.005.png)
+![](Aspose.Words.15d1297a-e42c-4edb-af62-c714e974a080.005.png)
 
 **Entrevistado N°1:** Giordano Alonso Pino Rodriguez
 
@@ -72,49 +73,13 @@
 
 **-Acerca de la entrevista:** Estudiante de la ULIMA
 
-\- **Link:** 
-
-**- Instante en el que inicia:** 0:00 min
-
-**-** **Duración**: 5:34 min
+\- **Link: <https://youtu.be/1gNVIFHG06o?si=Nl3voa_atWJiuIok>** 
 
 **Resumen:**
 
 El entrevistado menciona la necesidad de verificar la información de los conductores y usuarios por la inseguridad que presenta el país hoy en día. Además, considera necesario la comunicación directa con el conductor y un soporte técnico eficiente. Por otro lado, le encanta la idea de que el método de pago pueda ser en efectivo o por yape o plin. A su vez, le gusta la idea que la app se expanda para todas las universidades del Perú y está dispuesto a recomendarla a sus conocidos.
 
-
-
-
-
-**Segmento objetivo #2: Estudiantes Universitarios propietarios de vehículo privado.**
-
-![](Aspose.Words.87ae12e5-836e-456f-b5cd-6f18f8dc66a5.006.png)
-
-**Entrevistado N°1:** Brenda Carolina Calderon Sevillano
-
-**-Sexo:** Femenino
-
-**-Edad:** 19 años
-
-**-Ubicación en la que vive:** Lima, Los Olivos
-
-**-Acerca de la entrevista:** Estudiante de la UPC
-
-**-Link:** 
-
-**-Instante en el que inicia:** 0:00 min
-
-**-Duración**: 5:34 min
-
-**Resumen:**
-
-Se enfatiza la importancia de la seguridad y la confiabilidad al utilizar el servicio de carpooling. Valorizan la verificación de identidad, la comunicación directa con el conductor y un soporte técnico eficiente. Además, buscan informacion detallada del conductor y prefiere el metodo de pago en efectivo. La calificación del conductor es un factor crucial al seleccionar un viaje y considera promover el servicio de Unirider. En general desea una experiencia segura, transparente y cómoda al utilizar el servicio de carpooling.
-
-
-
-
-
-![](Aspose.Words.87ae12e5-836e-456f-b5cd-6f18f8dc66a5.007.png)
+![](Aspose.Words.15d1297a-e42c-4edb-af62-c714e974a080.006.png)
 
 **Entrevistado N°2:** 
 
@@ -126,15 +91,11 @@ Se enfatiza la importancia de la seguridad y la confiabilidad al utilizar el ser
 
 **-Acerca de la entrevista:** Estudiante de la UCSUR
 
-\- **Link:** 
-
-**- Instante en el que inicia:** 0:00 min
-
-**-** **Duración**: 5:34 min
+\- **Link: <https://youtu.be/ThVR_Cn4doY?si=DLupQbJC27vnNL2r>** 
 
 **Resumen:**
 
-El entrevistado menciona la importancia de la verificación de identidad del conductor y usuarios por tema de seguridad, ya que ha visto en las noticias que este tipo de apps no son muy seguras. Por otro lado, le gusta la idea de que tengas que escoger la ruta que vas a tomar antes de iniciar el viaje, ya que ha tenido problemas con otras aplicación que le cambiaban la ruta durante el viaje y se terminaba estresando. Además, menciona que estaba buscando una forma de generar algunos ingresos sin descuidar sus estudios. Por este motivo, le encanta lo que propone la app web y  le gusta que esta sea solo para los estudiantes universitarios. 
+El entrevistado menciona la importancia de la verificación de identidad del conductor y usuarios por tema de seguridad, ya que ha visto en las noticias que este tipo de apps no son muy seguras. Por otro lado, le gusta la idea de que tengas que escoger la ruta que vas a tomar antes de iniciar el viaje, ya que ha tenido problemas con otras aplicación que le cambiaban la ruta durante el viaje y se termina estresando. Además, menciona que estaba buscando una forma de generar algunos ingresos sin descuidar sus estudios. Por este motivo, le encanta lo que propone la app web y  le gusta que esta sea solo para los estudiantes universitarios. 
 
 
 
@@ -147,7 +108,69 @@ El entrevistado menciona la importancia de la verificación de identidad del con
 
 
 
-### <a name="_4i7ojhp"></a>2.2.3. Análisis de entrevistas
+
+
+**Segmento objetivo #2: Estudiantes Universitarios propietarios de vehículo privado.**
+
+![](Aspose.Words.15d1297a-e42c-4edb-af62-c714e974a080.007.png)
+
+**Entrevistado N°1:** Brenda Carolina Calderon Sevillano
+
+\- **Sexo:** Femenino
+
+\- **Edad:** 19 años
+
+\- **Ubicación en la que vive:** Lima, Los Olivos
+
+**-Acerca de la entrevista:** Estudiante de la UPC
+
+\- **Link: <https://youtu.be/IS8e9pUfwvQ?si=cHw-pofGoyIfKYVU>** 
+
+**Resumen:**
+
+Se enfatiza la importancia de la seguridad y la confiabilidad al utilizar el servicio de carpooling. Valorizan la verificación de identidad, la comunicación directa con el conductor y un soporte técnico eficiente. Además, buscan información detallada del conductor y prefiere el método de pago en efectivo. La calificación del conductor es un factor crucial al seleccionar un viaje y considera promover el servicio de Unirider. En general desea una experiencia segura, transparente y cómoda al utilizar el servicio de carpooling.
+
+![](Aspose.Words.15d1297a-e42c-4edb-af62-c714e974a080.008.png)
+
+**Entrevistado N°2: Jefrey Sanchez**
+
+**- Sexo:** Masculino
+
+**- Edad:** 20 años
+
+**- Ubicación en la que vive:** Callao
+
+**Acerca de la entrevista:** Estudia Ingeniería de software en la UPC cursando en el séptimo ciclo actualmente
+
+**-Link:<https://drive.google.com/file/d/1XJkl1zhuMz7T89BF1HmLBLTrAObuSh72/view?usp=sharing>**
+
+**Resumen:**
+
+El posible conductor de UniRider enfatiza la importancia de la verificación de identidad tanto para los conductores como para los pasajeros, y sugiere implementar notificaciones de cancelación de asientos para mejorar la experiencia de todos los usuarios. Está comprometido a utilizar las ganancias obtenidas para el adecuado mantenimiento del automóvil y está dispuesto a promover activamente la plataforma entre otros estudiantes de su universidad. Su principal preocupación es la calidad del servicio y la seguridad tanto del conductor como de los futuros usuarios, ya que entiende lo desafiante que puede ser el viaje a un centro de estudios. Este posible conductor también está abierto a recibir comentarios y sugerencias de los usuarios para garantizar una mejora continua en el servicio ofrecido.
+
+
+![](Aspose.Words.15d1297a-e42c-4edb-af62-c714e974a080.009.png)
+
+**Entrevistado N°3:** Leo Sicha
+
+**- Sexo:** Masculino
+
+**- Edad:** 22 años
+
+**- Ubicación en la que vive:** Ate
+
+**Acerca de la entrevista:** Estudia Ingenieria de Sistemas en la UPC
+
+**-Link:<https://drive.google.com/file/d/1QHZQD3JM9jqrBbkbcWzPBekCUn0aHpe4/view?usp=sharing>**
+
+Resumen:
+
+El conductor de UniRider respalda firmemente la verificación de identidad como medida de seguridad para todos los usuarios. Aunque tiene poca experiencia en viajes largos, cuenta con un amplio conocimiento del tráfico en Lima y está comprometido a ofrecer un servicio de carpooling seguro y confiable. Además, considera esencial la función de cancelación para evitar inconvenientes y está interesado en generar ingresos adicionales compartiendo su viaje.
+
+Para mejorar la organización del servicio, el conductor está dispuesto a colaborar en la creación de rutas eficientes. Además, su experiencia previa llevando compañeros en su misma ruta demuestra su capacidad para brindar un servicio de calidad. Está motivado a promover activamente UniRider entre otros estudiantes, mostrando un fuerte compromiso con la calidad del servicio y la seguridad de los usuarios.
+
+###
+### <a name="_4rq3ujgavz5v"></a><a name="_4i7ojhp"></a>2.2.3. Análisis de entrevistas
 
 A continuación se proporciona el análisis resumido para cada segmento objetivo.
 
@@ -213,7 +236,7 @@ Segmento objetivo #2: Estudiantes Universitarios propietarios de vehículo priva
 ### <a name="_1ci93xb"></a>2.3.1. User Personas
 A continuación, se presentarán los user persona basados en nuestro segmento objetivo. Estos son arquetipos de nuestros usuarios ideales para nuestro segmento principal.
 
-**Segmento objetivo #1: Estudiantes Universitarios que necesiten movilizarse![](Aspose.Words.87ae12e5-836e-456f-b5cd-6f18f8dc66a5.008.png)**
+**Segmento objetivo #1: Estudiantes Universitarios que necesiten movilizarse![](Aspose.Words.15d1297a-e42c-4edb-af62-c714e974a080.010.png)**
 
 
 
@@ -232,7 +255,7 @@ A continuación, se presentarán los user persona basados en nuestro segmento ob
 
 
 
-**Segmento objetivo #2: Estudiantes Universitarios propietarios de vehículo privado![](Aspose.Words.87ae12e5-836e-456f-b5cd-6f18f8dc66a5.009.png)**
+**Segmento objetivo #2: Estudiantes Universitarios propietarios de vehículo privado![](Aspose.Words.15d1297a-e42c-4edb-af62-c714e974a080.011.png)**
 
 
 
@@ -263,32 +286,32 @@ Brenda
 
 
 ### <a name="_2bn6wsx"></a>2.3.3. User Journey Mapping
-**Giordano**
+**Giordano![](Aspose.Words.15d1297a-e42c-4edb-af62-c714e974a080.012.jpeg)**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**Brenda![](Aspose.Words.15d1297a-e42c-4edb-af62-c714e974a080.013.jpeg)**
+
 ###
-**![](Aspose.Words.87ae12e5-836e-456f-b5cd-6f18f8dc66a5.010.jpeg)**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-**Brenda**
 ###
-**![](Aspose.Words.87ae12e5-836e-456f-b5cd-6f18f8dc66a5.011.jpeg)**
-
-
+###
 ###
 
 
@@ -300,17 +323,18 @@ Brenda
 ### <a name="_xb00ezcbydjj"></a><a name="_arcl8jyg4q6g"></a><a name="_98qj69g8ftd2"></a><a name="_8qkzx0iar9cr"></a><a name="_z8prfpid6kkz"></a><a name="_qsh70q"></a>2.3.4. Empathy Mapping
 **Giordano**
 
+![](Aspose.Words.15d1297a-e42c-4edb-af62-c714e974a080.014.png)
 
 
 **Brenda**
+
+![](Aspose.Words.15d1297a-e42c-4edb-af62-c714e974a080.015.png)
 ### <a name="_3as4poj"></a>2.3.5. As-is Scenario Mapping
 **Segmento Estudiantes Universitarios que necesiten movilizarse**
 
-
-
-
-
+![](Aspose.Words.15d1297a-e42c-4edb-af62-c714e974a080.016.jpeg)
 
 **Segmento Estudiantes Universitarios propietarios de vehículo privado**
 
+![](Aspose.Words.15d1297a-e42c-4edb-af62-c714e974a080.017.jpeg)
 
