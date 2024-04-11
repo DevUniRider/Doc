@@ -336,6 +336,6 @@ Brenda
 
 **Segmento Estudiantes Universitarios propietarios de vehículo privado**
 
-![](images/Emphaty map - Segmento Objetivo 2.jpg)
+![Emphatymap](images/Emphatymap2.jpg)
 
 
